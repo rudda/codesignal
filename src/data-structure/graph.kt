@@ -107,18 +107,6 @@ fun addNodes(graph : Graph) {
   }
 }
 
-// fun add Childs(layers: Int, node : Int) {
-//   var last = 201
-  
-//   for ( i in 0..layers) {
-
-//     for( j in 0 .. 5) {
-//       val child = 
-//     }
-
-//   }
-// }
-
 fun main() {
   var myGraph = Graph()
   addNodes(myGraph)
